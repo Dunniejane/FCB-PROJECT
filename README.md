@@ -21,4 +21,11 @@ TO ADD IMAGE
 
 ![](CTUP2931.JPG)
 
+TO CREATE COLUMN
+
+|HEADING 1|HEADING 2|HEADING 3|
+|---------|--------|---------|
+|DATA 1|DATA 2|DATA 3|
+
+
   
